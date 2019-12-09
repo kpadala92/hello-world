@@ -8,8 +8,8 @@
 	<packaging>war</packaging>
 	<name>hello-world Web JSP Example</name>
 	<description>Spring Boot Hello World Web JSP Example</description>
+	
 	<url></url>
-	<version>1.0</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
